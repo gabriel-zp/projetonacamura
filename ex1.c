@@ -8,10 +8,10 @@ int main(){
     char palavra[10] = "programa";
     printf("Valor inteiro: %d\n",n);
     printf("Valor inteiro: %i\n", n);
-    printf("Valor real: %f\n, f");
-    printf("Valor real: %f\n, d");
-    printf("Caractere: %c\n, letra");
-    printf("Valor numérico do caractere: %d\n", letra);
+    printf("Valor real: %f\n", f);
+    printf("Valor real: %f\n", d);
+    printf("Caractere: %c\n",letra);
+    printf("Valor numerico do caractere: %d\n", letra);
     printf("Palavra: %s\n", palavra);
     return 0; 
 }
